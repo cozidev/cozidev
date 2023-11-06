@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cozidev
+- 👀 I’m interested in contributing to the open-source. 
+- 🌱 I’m currently learning Rust with the goal of bringing the speed of Rust to academic research projects.
+- 💞️ I’m looking to collaborate on any academic research related projects in Rust or Python.
+- 📫 Reach me here - cozidev@proton.me
